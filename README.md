@@ -1,7 +1,8 @@
 CourseCritic
-    CourseCritic is a web-based platform designed specifically for Gitam University students to share and access ratings and reviews for courses and professors. This platform enables students to make informed decisions when selecting their subjects and professors.
+CourseCritic is a web-based platform designed specifically for Gitam University students to share and access ratings and reviews for courses and professors. This platform enables students to make informed decisions when selecting their subjects and professors.
 
 Key Features:
+
     1.Course and Professor Ratings: Students can rate and review professors or courses, providing insights into teaching quality and subject difficulty.
     2.Comparison Tool: A feature that allows students to compare two courses or two professors teaching the same subject using interactive bar charts.
     3.Review Submission with Feedback: A user-friendly review form with a pop-up message thanking users for their submissions.
@@ -9,17 +10,20 @@ Key Features:
     5.User Authentication: Only Gitam University students can register and log in to access the website.
 
 Technologies Used:
+
     Frontend: HTML, CSS, JavaScript
     Backend: PHP
     Database: MySQL
     
 How It Works:
+
     1.Students log in or register using their Gitam University credentials.
     2.Navigate to the homepage and submit reviews or explore existing reviews.
     3.Compare courses or professors to determine the best fit for their needs.
     4.View dynamic visualizations like bar graphs to better interpret the ratings.
     
 Future Enhancements:
+
    ~Enhancing the UI/UX to make it more visually appealing and engaging.
    ~Adding a feature to verify review authenticity using student IDs.
    ~Implementing advanced analytics to provide detailed insights into trends and popular courses/professors.
